@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.allianceharshaadvertising.marketplacedev',
-  appName: 'Market Place',
+  appId: 'com.a2adv.brinksmarket',
+  appName: 'Brinks Market',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
